@@ -1,1 +1,1 @@
-# react-projects-5-menu
+A simple react menu project for learning purposes 
